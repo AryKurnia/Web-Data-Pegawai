@@ -12,7 +12,10 @@ dengan batas pengumpulan tugas 30 N0vember 2023 pukul 15:00
 1. Pastikan di perangkat komputer anda terinstal EXAMPP
 2. Buat database baru dengan nama 'kepegawaian'
 3. Inpor kepegawaian.sql ke database 'kepegawaian'
+4. Clone Repo
+   ```
+   git clone https://github.com/AryKurnia/Web-Data-Pegawai.git
+   ```
 
-> [!NOTE]
 > Ary Kurni
 > 30 November 2023
