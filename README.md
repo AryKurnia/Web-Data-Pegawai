@@ -10,11 +10,16 @@ dengan batas pengumpulan tugas 30 N0vember 2023 pukul 15:00
 
 ## Instalasi
 1. Pastikan di perangkat komputer anda terinstal EXAMPP
-2. Buat database baru dengan nama 'kepegawaian'
-3. Inpor kepegawaian.sql ke database 'kepegawaian'
-4. Clone Repo
+2. Buka EXAMPP lalu jalankan Apache dan Sql
+3. Buat database baru dengan nama 'kepegawaian'
+4. Inpor kepegawaian.sql ke database 'kepegawaian'
+5. Clone Repo di direktori C:\xampp\htdocs
    ```
    git clone https://github.com/AryKurnia/Web-Data-Pegawai.git
+   ```
+6. Buka web browser, kemudian masukkan url:
+   ```
+   localhost/Web-Data-Pegawai
    ```
 
 > Ary Kurni
